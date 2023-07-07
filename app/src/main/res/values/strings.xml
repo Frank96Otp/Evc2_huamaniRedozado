@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Evc2_huamani_Redozado</string>
+    <string name="contrase_a">contraseña</string>
+    <string name="login">login</string>
+    <string name="api_key" translatable="false">AIzaSyAeiGzK5PkeO_nRNwd3U_VsBVUfWNcIQNE</string>
+</resources>
